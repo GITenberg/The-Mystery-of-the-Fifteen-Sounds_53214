@@ -1,0 +1,24 @@
+_repo: The-Mystery-of-the-Fifteen-Sounds_53214
+_version: 0.0.1
+alternative_title: The Mystery of the 15 Sounds
+creator:
+  author:
+    agent_name: Powell, Van
+    gutenberg_agent_id: '43894'
+    url: http://www.gutenberg.org/2009/agents/43894
+description: ''
+gutenberg_issued: '2016-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Laboratories -- Juvenile fiction'
+- GITenberg
+title: The Mystery of the Fifteen Sounds
+url: http://www.gutenberg.org/ebooks/53214
