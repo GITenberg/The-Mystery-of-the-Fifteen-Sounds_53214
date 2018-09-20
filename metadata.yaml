@@ -1,12 +1,17 @@
 _repo: The-Mystery-of-the-Fifteen-Sounds_53214
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Mystery of the 15 Sounds
+covers:
+- cover_type: archival
+  image_path: 53214-h/images/cover.jpg
 creator:
   author:
     agent_name: Powell, Van
     gutenberg_agent_id: '43894'
     url: http://www.gutenberg.org/2009/agents/43894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53214#The-Mystery-of-the-Fifteen-Sounds
 gutenberg_issued: '2016-10-05'
 gutenberg_type: Text
 identifiers:
